@@ -3,6 +3,7 @@ A useful collection of notebooks for quantization, fine-tuning, and inference wi
 
 Here is the list of notebooks:
 
+- [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yWlhaHyVVWAjOW_Kw15S9qVmw_Dhu69_?usp=sharing) [Inference Turkish LLaVA with 4-bit](inference_turkish_llava_4bit.ipynb)
 - [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rgdK6-HVHYapmlBw04Lf66kgwhl7VSb1?usp=sharing) [Fine-tune Turkish LLaVA with 4-bit QLoRA](fine_tuning_turkish_llava_with_qlora.ipynb)
 
 > Contributions are warmly welcome!
